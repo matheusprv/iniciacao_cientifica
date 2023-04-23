@@ -1,0 +1,3 @@
+Building a neural network FROM SCRATCH (no Tensorflow/Pytorch, just numpy & math)
+Author: Samson Zhang
+Link: https://www.youtube.com/watch?v=w8yWXqWQYmU&list=WL&index=2&ab_channel=SamsonZhang
