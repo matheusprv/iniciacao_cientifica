@@ -1,0 +1,19 @@
+Treino
+    Epoch 1/7
+    1875/1875 [==============================] - 37s 19ms/step - loss: 0.5314 - accuracy: 0.8044 - val_loss: 0.3580 - val_accuracy: 0.8708
+    Epoch 2/7
+    1875/1875 [==============================] - 35s 19ms/step - loss: 0.3351 - accuracy: 0.8785 - val_loss: 0.3080 - val_accuracy: 0.8854
+    Epoch 3/7
+    1875/1875 [==============================] - 35s 19ms/step - loss: 0.2864 - accuracy: 0.8966 - val_loss: 0.2606 - val_accuracy: 0.9038
+    Epoch 4/7
+    1875/1875 [==============================] - 36s 19ms/step - loss: 0.2555 - accuracy: 0.9067 - val_loss: 0.2810 - val_accuracy: 0.8933
+    Epoch 5/7
+    1875/1875 [==============================] - 36s 19ms/step - loss: 0.2318 - accuracy: 0.9143 - val_loss: 0.2474 - val_accuracy: 0.9104
+    Epoch 6/7
+    1875/1875 [==============================] - 35s 18ms/step - loss: 0.2142 - accuracy: 0.9194 - val_loss: 0.2434 - val_accuracy: 0.9082
+    Epoch 7/7
+    1875/1875 [==============================] - 35s 19ms/step - loss: 0.1939 - accuracy: 0.9291 - val_loss: 0.2330 - val_accuracy: 0.9158
+
+Teste
+    313/313 [==============================] - 2s 7ms/step - loss: 0.2330 - accuracy: 0.9158
+    Test accuracy: 0.9157999753952026
