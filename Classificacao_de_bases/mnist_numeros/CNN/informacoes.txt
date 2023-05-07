@@ -1,0 +1,14 @@
+Treino
+    Epoch 1/4
+    1875/1875 [==============================] - 37s 19ms/step - loss: 0.1482 - accuracy: 0.9549 - val_loss: 0.0516 - val_accuracy: 0.9835
+    Epoch 2/4
+    1875/1875 [==============================] - 35s 18ms/step - loss: 0.0473 - accuracy: 0.9853 - val_loss: 0.0431 - val_accuracy: 0.9867
+    Epoch 3/4
+    1875/1875 [==============================] - 33s 18ms/step - loss: 0.0342 - accuracy: 0.9891 - val_loss: 0.0354 - val_accuracy: 0.9884
+    Epoch 4/4
+    1875/1875 [==============================] - 33s 17ms/step - loss: 0.0265 - accuracy: 0.9919 - val_loss: 0.0290 - val_accuracy: 0.9907
+
+
+Teste
+    313/313 [==============================] - 2s 7ms/step - loss: 0.0290 - accuracy: 0.9907
+    Test accuracy: 0.9907000064849854

@@ -26,7 +26,20 @@ print("\tCarregamento de modelo concluído\n")
 
 model.compile(optimizer='adam', loss='sparse_categorical_crossentropy', metrics=['accuracy'])
 
+# wrong = 0
+# wrong_indexes = []
+# for index in range (0, 10000):
+#     image = x_test[index].reshape((1,28,28))
+#     prediction = model.predict(image)
 
+#     prediction = np.argmax(prediction)
+
+#     if prediction != int(y_test[index]):
+#         wrong += 1
+#         wrong_indexes.append(index)
+#         print("Index: ", index, " Prediction: ", prediction, " Expected: ", int(y_test[index]))
+
+# print("\nWrong: ", wrong, "\nWrong indexes: ", wrong_indexes)
 
 while True:
     index = input("Digite o index desejado: ")
