@@ -47,5 +47,8 @@ while True:
     print_image(image)
     prediction = model.predict(image)
 
-    print("\nResultado encontrado: ",np.argmax(prediction))
-    print("Resultado esperado: ", int(y_test[index]), "\n")
+    clothes = ["T-shirt/top", "Trouser", "Pullover", "Dress", "Coat", "Sandal", "Shirt", "Sneaker", "Bag", "Ankle boot"]
+
+
+    print("\nResultado encontrado: ", clothes[np.argmax(prediction)])
+    print("Resultado esperado: ", clothes[int(y_test[index])], "\n")

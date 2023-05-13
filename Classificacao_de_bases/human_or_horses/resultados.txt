@@ -1,0 +1,33 @@
+Epoch 1/7
+33/33 [==============================] - ETA: 0s - loss: 0.5719 - accuracy: 0.7069
+Epoch 1: val_accuracy improved from -inf to 0.56250, saving model to best_model.h5
+33/33 [==============================] - 112s 3s/step - loss: 0.5719 - accuracy: 0.7069 - val_loss: 0.6297 - val_accuracy: 0.5625
+Epoch 2/7
+33/33 [==============================] - ETA: 0s - loss: 0.2391 - accuracy: 0.9075
+Epoch 2: val_accuracy improved from 0.56250 to 0.87891, saving model to best_model.h5
+33/33 [==============================] - 107s 3s/step - loss: 0.2391 - accuracy: 0.9075 - val_loss: 0.3441 - val_accuracy: 0.8789
+Epoch 3/7
+33/33 [==============================] - ETA: 0s - loss: 0.1213 - accuracy: 0.9503
+Epoch 3: val_accuracy improved from 0.87891 to 0.89844, saving model to best_model.h5
+33/33 [==============================] - 111s 3s/step - loss: 0.1213 - accuracy: 0.9503 - val_loss: 0.3449 - val_accuracy: 0.8984
+Epoch 4/7
+33/33 [==============================] - ETA: 0s - loss: 0.0535 - accuracy: 0.9834
+Epoch 4: val_accuracy did not improve from 0.89844
+33/33 [==============================] - 104s 3s/step - loss: 0.0535 - accuracy: 0.9834 - val_loss: 0.4049 - val_accuracy: 0.7617
+Epoch 5/7
+33/33 [==============================] - ETA: 0s - loss: 0.0097 - accuracy: 0.9990
+Epoch 5: val_accuracy improved from 0.89844 to 0.95312, saving model to best_model.h5
+33/33 [==============================] - 98s 3s/step - loss: 0.0097 - accuracy: 0.9990 - val_loss: 0.1707 - val_accuracy: 0.9531
+Epoch 6/7
+33/33 [==============================] - ETA: 0s - loss: 0.0366 - accuracy: 0.9864
+Epoch 6: val_accuracy improved from 0.95312 to 0.95703, saving model to best_model.h5
+33/33 [==============================] - 107s 3s/step - loss: 0.0366 - accuracy: 0.9864 - val_loss: 0.1716 - val_accuracy: 0.9570
+Epoch 7/7
+33/33 [==============================] - ETA: 0s - loss: 0.0117 - accuracy: 0.9951
+Epoch 7: val_accuracy did not improve from 0.95703
+33/33 [==============================] - 105s 3s/step - loss: 0.0117 - accuracy: 0.9951 - val_loss: 0.2935 - val_accuracy: 0.9219
+
+
+TESTE
+    8/8 [==============================] - 8s 872ms/step - loss: 0.1716 - accuracy: 0.9570
+    Test accuracy: 0.95703125
