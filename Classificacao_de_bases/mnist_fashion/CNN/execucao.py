@@ -19,7 +19,7 @@ print("\tCarregamento de dataset concluido")
 
 
 print("\nCarregando modelo")
-model = ld.load_model("model.json", "model.h5")
+model = ld.load_model("model.json", "best_model.h5")
 print("\tCarregamento de modelo concluído\n")
 
 

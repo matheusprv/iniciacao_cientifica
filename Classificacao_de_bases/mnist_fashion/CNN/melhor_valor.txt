@@ -1,0 +1,45 @@
+Treino
+    Epoch 1/10
+    1875/1875 [==============================] - ETA: 0s - loss: 0.3056 - accuracy: 0.8893
+    Epoch 1: val_accuracy improved from -inf to 0.89910, saving model to best_model.h5
+    1875/1875 [==============================] - 36s 19ms/step - loss: 0.3056 - accuracy: 0.8893 - val_loss: 0.2784 - val_accuracy: 0.8991
+    Epoch 2/10
+    1874/1875 [============================>.] - ETA: 0s - loss: 0.2646 - accuracy: 0.9042
+    Epoch 2: val_accuracy improved from 0.89910 to 0.89990, saving model to best_model.h5
+    1875/1875 [==============================] - 33s 18ms/step - loss: 0.2647 - accuracy: 0.9042 - val_loss: 0.2721 - val_accuracy: 0.8999
+    Epoch 3/10
+    1875/1875 [==============================] - ETA: 0s - loss: 0.2371 - accuracy: 0.9133
+    Epoch 3: val_accuracy improved from 0.89990 to 0.90770, saving model to best_model.h5
+    1875/1875 [==============================] - 33s 18ms/step - loss: 0.2371 - accuracy: 0.9133 - val_loss: 0.2533 - val_accuracy: 0.9077
+    Epoch 4/10
+    1875/1875 [==============================] - ETA: 0s - loss: 0.2133 - accuracy: 0.9219
+    Epoch 4: val_accuracy improved from 0.90770 to 0.91250, saving model to best_model.h5
+    1875/1875 [==============================] - 33s 18ms/step - loss: 0.2133 - accuracy: 0.9219 - val_loss: 0.2434 - val_accuracy: 0.9125
+    Epoch 5/10
+    1874/1875 [============================>.] - ETA: 0s - loss: 0.1968 - accuracy: 0.9288
+    Epoch 5: val_accuracy did not improve from 0.91250
+    1875/1875 [==============================] - 33s 17ms/step - loss: 0.1968 - accuracy: 0.9287 - val_loss: 0.2398 - val_accuracy: 0.9121
+    Epoch 6/10
+    1874/1875 [============================>.] - ETA: 0s - loss: 0.1799 - accuracy: 0.9336
+    Epoch 6: val_accuracy did not improve from 0.91250
+    1875/1875 [==============================] - 33s 17ms/step - loss: 0.1800 - accuracy: 0.9336 - val_loss: 0.2494 - val_accuracy: 0.9082
+    Epoch 7/10
+    1874/1875 [============================>.] - ETA: 0s - loss: 0.1676 - accuracy: 0.9377
+    Epoch 7: val_accuracy improved from 0.91250 to 0.91400, saving model to best_model.h5
+    1875/1875 [==============================] - 33s 18ms/step - loss: 0.1676 - accuracy: 0.9377 - val_loss: 0.2445 - val_accuracy: 0.9140
+    Epoch 8/10
+    1873/1875 [============================>.] - ETA: 0s - loss: 0.1524 - accuracy: 0.9441
+    Epoch 8: val_accuracy improved from 0.91400 to 0.91590, saving model to best_model.h5
+    1875/1875 [==============================] - 33s 18ms/step - loss: 0.1525 - accuracy: 0.9441 - val_loss: 0.2477 - val_accuracy: 0.9159
+    Epoch 9/10
+    1875/1875 [==============================] - ETA: 0s - loss: 0.1449 - accuracy: 0.9464
+    Epoch 9: val_accuracy improved from 0.91590 to 0.91710, saving model to best_model.h5
+    1875/1875 [==============================] - 33s 18ms/step - loss: 0.1449 - accuracy: 0.9464 - val_loss: 0.2489 - val_accuracy: 0.9171
+    Epoch 10/10
+    1872/1875 [============================>.] - ETA: 0s - loss: 0.1341 - accuracy: 0.9495
+    Epoch 10: val_accuracy did not improve from 0.91710
+    1875/1875 [==============================] - 33s 18ms/step - loss: 0.1341 - accuracy: 0.9495 - val_loss: 0.2626 - val_accuracy: 0.9136
+
+teste
+    313/313 [==============================] - 2s 6ms/step - loss: 0.2489 - accuracy: 0.9171
+    Test accuracy: 0.9171000123023987
